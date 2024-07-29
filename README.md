@@ -275,6 +275,14 @@ _Christos Papaioannidis, Vasileios Mygdalis, Ioannis Pitas_
 
 ## Conference Papers
 
+### 2024 ICRA
+##### • [2024 ICRA] FSD: Fast Self-Supervised Single RGB-D to Categorical 3D Objects. [\[PDF\]](https://arxiv.org/pdf/2310.12974.pdf) [\[Project\]](https://fsd6d.github.io/) [\[Video\]](https://youtu.be/3tNrMK-MUQc?si=50FIXFgDQK3xJl44)
+_Mayank Lunayach, Sergey Zakharov, Dian Chen, Rares Ambrus, Zsolt Kira, Muhammad Zubair Irshad_
+
+### 2024 IROS
+##### • [2024 IROS] DiffusionNOCS: Managing Symmetry and Uncertainty in Sim2Real Multi-Modal Category-level Pose Estimation. [\[PDF\]](https://arxiv.org/pdf/2402.12647) [\[Project\]](https://woven-planet.github.io/DiffusionNOCS/) [\[Code\]](https://github.com/woven-planet/DiffusionNOCS)
+_Takuya Ikeda, Sergey Zakharov, Tianyi Ko, Muhammad Zubair Irshad, Robert Lee, Katherine Liu, Rares Ambrus, Koichi Nishiwaki_
+
 ### 2024 CVPR
 ##### • [2024 CVPR] GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement. 
 _Linfang Zheng，Tze Ho Elden Tse，Chen Wang，Yinghan Sun，Hua Che，Aleš Leonardis，Wei Zhang，Hyung Jin Chang_
